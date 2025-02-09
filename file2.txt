@@ -1,0 +1,10 @@
+this is my next file
+
+first stage is untrackable file
+
+to see the stage:
+>>git status
+
+to add the file to the githubcopy
+>>git add filename.extension
+
