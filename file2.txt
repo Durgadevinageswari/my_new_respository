@@ -4,7 +4,12 @@ first stage is untrackable file
 
 to see the stage:
 >>git status
+"
+u==>untrackable
+m==>modified
+a==>add
+"
 
-to add the file to the githubcopy
+to add the file to the githubcopy for every changes need to give this command
 >>git add filename.extension
 
